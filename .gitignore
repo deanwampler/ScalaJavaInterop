@@ -1,0 +1,10 @@
+.DS_Store
+.vim_session
+TAGS
+bin/
+logs/
+project/boot/
+project/build/target/
+project/plugins/target/
+src/vendor/
+target/
