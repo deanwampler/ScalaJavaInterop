@@ -1,7 +1,10 @@
 # Scala-Java Interoperability
-## Dean Wampler
 
 Lightning talk at the July 15th, 2010 Chicago-Area Scala Enthusiasts meeting.
+
+Dean Wampler
+
+[GitHub](http://github.com/deanwampler/ScalaJavaInterop)
 
 # Introduction
 
