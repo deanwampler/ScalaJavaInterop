@@ -11,8 +11,10 @@ public class JFunctionMain {
     java.util.List<String> argList = new ArrayList<String>();
     for (int i=0; i<args.length; i++)
       argList.add(args[i]);
-    
-    // Function1<String,String> toUpper = new Function1<String,String>() {
+
+    // Can't do this in 2.8.0, because of @specialized. See the README.
+    // Function1<String,String> toUpper = 
+    //    new Function1<String,String>() {
     //  public String apply(String s) {
     //    return s.toUpperCase();
     //  }
